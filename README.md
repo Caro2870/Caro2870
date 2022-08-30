@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying Software Engineering at the Peruvian University of Applied Sciences.\
 🌱 &nbsp;I'm on track for learning more about Web Development.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at brigittemmendezpastor@gmail.com! I'll try to respond as soon as I can
+✉️ &nbsp;You can shoot me an email at carol.vi28@gmail.com! I'll try to respond as soon as I can
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,16 +32,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/BrigitteMendez1302">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrigitteMendez1302&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrigitteMendez1302&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Caro2870">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caro2870&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caro2870&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/brigitte-mendez-b06a75201"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:brigittemmendezpastor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/brigittemendez_13/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carolina-villegas-30529319a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:carol.vi28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/caro_vc.31/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
