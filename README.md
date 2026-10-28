@@ -1,7 +1,7 @@
 
 ## 👋 &nbsp;Hey there! I'm Carolina
 
-**AI Engineer · Agentic systems, MCP & RAG · Full-stack TypeScript / Python** · Lima, Peru 🇵🇪
+**AI Engineer · Agentic systems, MCP & RAG · Full-stack TypeScript / Python / PHP** · Lima, Peru 🇵🇪
 
 ### 👩‍💻️ &nbsp;About Me
 
