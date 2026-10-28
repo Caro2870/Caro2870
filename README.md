@@ -3,7 +3,7 @@
 
 ### 👩‍💻️ &nbsp;About Me
 
-💼 &nbsp;Software Engineer building payment products at ePayco.\
+💼 &nbsp;Software Engineer working as a contractor on payment products.\
 🤖 &nbsp;Lately I'm into AI tooling: MCP servers, agents and running generative models locally.\
 💡 &nbsp;I like to explore new technologies and build software solutions and quick hacks.\
 💬 &nbsp;Feel free to reach out for collaborations or just for some interesting discussion.\
